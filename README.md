@@ -7,7 +7,15 @@
 
 ## ⚙ **Career**
 
-<table width="100%" style="text-align: center">
+<table width="100%">
+
+<style>
+
+td {
+  text-align: center
+}
+
+</style>
 
 <tr>
 
@@ -71,7 +79,15 @@
 
 </div>
 
-<table width="100%" style="text-align: center">
+<table width="100%">
+
+<style>
+
+td {
+  text-align: center
+}
+
+</style>
 
 <tr>
 
