@@ -4,25 +4,25 @@
 
 <tr>
 
-<td valign="center" align="center">
+<td valign="center" align="center" width="15%">
 
 ### **Type**
 
 </td>
 
-<td valign="center" align="center">
+<td valign="center" align="center" width="20%">
 
 ### **Date**
 
 </td>
 
-<td valign="center" align="center">
+<td valign="center" align="center" width="50%">
 
 ### **Content**
 
 </td>
 
-<td valign="center" align="center">
+<td valign="center" align="center" width="15%">
 
 ### **Organization**
 
@@ -32,25 +32,25 @@
 
 <tr>
 
-<td valign="center" align="center">
+<td valign="center" align="center" width="15%">
 
 #### Education
 
 </td>
 
-<td valign="center" align="center">
+<td valign="center" align="center" width="20%">
 
 #### 2020/03 ~
 
 </td>
 
-<td valign="center" align="center">
+<td valign="center" align="center" width="50%">
 
 #### Department of software
 
 </td>
 
-<td valign="center" align="center">
+<td valign="center" align="center" width="15%">
 
 #### Dankook.univ
 
