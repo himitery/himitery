@@ -1,10 +1,3 @@
-<div align=center>
-	
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23A3BCE2&title_bg=%234C4C4C&icon=&icon_color=%23E7E7E7&title=%5BTODAY%2FTOTAL%5D&edge_flat=false)](https://hits.seeyoufarm.com)
-<img src = "https://img.shields.io/github/followers/himitery?color=%23a3bce2&label=FOLLOWER&logoColor=%234c4c4c">
-
-</div>
-
 ## ⚙ **Career**
 
 <div align="center" style="width: 100%">
@@ -17,14 +10,7 @@
 
 ## ⚙ **Tech Stacks**
 
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himitery&layout=compact)
-
-</div>
-
 <table width="100%" sytle="text-align: center">
-
 <tr>
 
 <td valign="top" width="20%" align="center">
@@ -100,13 +86,13 @@
 
 </table>
 
-## ⚙ **GitHub Stats**
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=himitery&show_icons=true)](https://github.com/himitery)
-
 ## ⚙ **Waka Time**
 
+<div align=center>
+	
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=himitery)](https://wakatime.com/@himitery)
+
+</div>
 
 ## ⚙ **Contacts**
 
@@ -115,5 +101,12 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/himitery)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/l.hakjin/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:himitery@gmail.com)
+
+</div>
+
+<div align=center>
+	
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23A3BCE2&title_bg=%234C4C4C&icon=&icon_color=%23E7E7E7&title=%5BTODAY%2FTOTAL%5D&edge_flat=false)](https://hits.seeyoufarm.com)
+<img src = "https://img.shields.io/github/followers/himitery?color=%23a3bce2&label=FOLLOWER&logoColor=%234c4c4c">
 
 </div>
