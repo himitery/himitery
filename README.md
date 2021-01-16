@@ -3,51 +3,53 @@
 <table width="100%" sytle="text-align: center">
 <tr>
 
-<td valign="top" width="25%" align="center">
+<td valign="center" width="25%" align="center">
 
 ### **Type**
 
 </td>
 
-<td valign="top" width="25%" align="center">
+<td valign="center" width="25%" align="center">
 
 ### **Date**
 
 </td>
 
-<td valign="top" width="25%" align="center">
+<td valign="center" width="25%" align="center">
 
 ### **Content**
 
 </td>
 
-<td valign="top" width="25%" align="center">
+<td valign="center" width="25%" align="center">
 
 ### **Organization**
 
 </td>
 
+</tr>
+
 <tr>
 
-<td valign="top" width="25%" align="center">
+<td valign="center" width="25%" align="center">
 
 #### Education
 
 </td>
 
-<td valign="top" width="25%" align="center">
+<td valign="center" width="25%" align="center">
 
 #### 2020/03/02 ~
 
 </td>
 
-<td valign="top" width="25%" align="center">
+<td valign="center" width="25%" align="center">
 
 #### Department of software
 
 </td>
 
-<td valign="top" width="25%" align="center">
+<td valign="center" width="25%" align="center">
 
 #### Dankook.univ
 
@@ -62,39 +64,41 @@
 <table width="100%" sytle="text-align: center">
 <tr>
 
-<td valign="top" width="20%" align="center">
+<td valign="center" width="20%" align="center">
 
 ### **Programming Languages**
 
 </td>
 
-<td valign="top" width="20%" align="center">
+<td valign="center" width="20%" align="center">
 
 ### **Fronted Development**
 
 </td>
 
-<td valign="top" width="20%" align="center">
+<td valign="center" width="20%" align="center">
 
 ### **Backend Development**
 
 </td>
 
-<td valign="top" width="20%" align="center">
+<td valign="center" width="20%" align="center">
 
 ### **Database**
 
 </td>
 
-<td valign="top" width="20%" align="center">
+<td valign="center" width="20%" align="center">
 
 ### **Other**
 
 </td>
 
+</tr>
+
 <tr>
 
-<td valign="top" width="20%" align="center">
+<td valign="center" width="20%" align="center">
 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
@@ -105,26 +109,26 @@
 
 </td>
 
-<td valign="top" width="20%" align="center">
+<td valign="center" width="20%" align="center">
 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
 
 </td>
 
-<td valign="top" width="20%" align="center">
+<td valign="center" width="20%" align="center">
 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
 
 </td>
 
-<td valign="top" width="20%" align="center">
+<td valign="center" width="20%" align="center">
 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
 
 </td>
 
-<td valign="top" width="20%" align="center">
+<td valign="center" width="20%" align="center">
 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
