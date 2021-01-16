@@ -15,99 +15,43 @@
 
 </div>
 
-<table width="100%" style="margin-left: auto; margin-right: auto;">
-
-<tr>
-
-<td valign="top" width="20%" style="text-align: center">
-
-### Type
-
-</td>
-
-<td valign="top" width="20%" style="text-align: center">
-
-### Date
-
-</td>
-
-<td valign="top" width="40%" style="text-align: center">
-
-### Content
-
-</td>
-
-<td valign="top" width="20%" style="text-align: center">
-
-### Organization
-
-</td>
-
-<tr>
-
-<td valign="top" width="20%" style="text-align: center">
-
-#### Education
-
-</td>
-
-<td valign="top" width="20%" style="text-align: center">
-
-#### 2020/03 ~
-
-</td>
-
-<td valign="top" width="40%" style="text-align: center">
-
-#### Department of software
-
-</td>
-
-<td valign="top" width="20%" style="text-align: center">
-
-#### Dankook.univ
-
-</tr>
-
-</table>
-
 ## ⚙ **Tech Stacks**
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himitery&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himitery&layout=compact)
 
 </div>
 
-<table width="100%" style="margin-left: auto; margin-right: auto;">
+<table width="100%" style="margin-left: auto; margin-right: auto; text-align: center">
 
 <tr>
 
-<td valign="top" width="20%" style="text-align: center">
+<td valign="top" width="20%">
 
 ### **Programming Languages**
 
 </td>
 
-<td valign="top" width="20%" style="text-align: center">
+<td valign="top" width="20%">
 
 ### **Fronted Development**
 
 </td>
 
-<td valign="top" width="20%" style="text-align: center">
+<td valign="top" width="20%">
 
 ### **Backend Development**
 
 </td>
 
-<td valign="top" width="20%" style="text-align: center">
+<td valign="top" width="20%">
 
 ### **Database**
 
 </td>
 
-<td valign="top" width="20%" style="text-align: center">
+<td valign="top" width="20%">
 
 ### **Other**
 
@@ -115,7 +59,7 @@
 
 <tr>
 
-<td valign="top" width="20%" style="text-align: center">
+<td valign="top" width="20%">
 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
@@ -126,26 +70,26 @@
 
 </td>
 
-<td valign="top" width="20%" style="text-align: center">
+<td valign="top" width="20%">
 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
 
 </td>
 
-<td valign="top" width="20%" style="text-align: center">
+<td valign="top" width="20%">
 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
 
 </td>
 
-<td valign="top" width="20%" style="text-align: center">
+<td valign="top" width="20%">
 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
 
 </td>
 
-<td valign="top" width="20%" style="text-align: center">
+<td valign="top" width="20%">
 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
@@ -158,11 +102,11 @@
 
 ## ⚙ **GitHub Stats**
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=himitery&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=himitery&show_icons=true)](https://github.com/himitery)
 
 ## ⚙ **Waka Time**
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=himitery&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=himitery)](https://wakatime.com/@himitery)
 
 ## ⚙ **Contacts**
 
