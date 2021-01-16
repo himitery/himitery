@@ -1,6 +1,6 @@
 ## ⚙ **Career**
 
-<table width=100%>
+<table align="center" width=100%>
 
 <tr>
 
@@ -62,7 +62,7 @@
 
 ## ⚙ **Tech Stacks**
 
-<table width=100% sytle="text-align: center">
+<table align="center" width=100%>
 
 <tr>
 
