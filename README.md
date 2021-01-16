@@ -1,12 +1,61 @@
 ## ⚙ **Career**
 
-<div align="center" style="width: 100%">
+<table width="100%" sytle="text-align: center">
+<tr>
 
-|   Type    |     Date     |        Content         | Organization |
-| :-------: | :----------: | :--------------------: | :----------: |
-| Education | 2020/03/02 ~ | Department of software | Dankook.univ |
+<td valign="top" width="20%" align="center">
 
-</div>
+### **Type**
+
+</td>
+
+<td valign="top" width="20%" align="center">
+
+### **Date**
+
+</td>
+
+<td valign="top" width="20%" align="center">
+
+### **Content**
+
+</td>
+
+<td valign="top" width="20%" align="center">
+
+### **Organization**
+
+</td>
+
+<tr>
+
+<td valign="top" width="20%" align="center">
+
+#### Education
+
+</td>
+
+<td valign="top" width="20%" align="center">
+
+#### 2020/03/02 ~
+
+</td>
+
+<td valign="top" width="20%" align="center">
+
+#### Department of software
+
+</td>
+
+<td valign="top" width="20%" align="center">
+
+#### Dankook.univ
+
+</td>
+
+</tr>
+
+</table>
 
 ## ⚙ **Tech Stacks**
 
