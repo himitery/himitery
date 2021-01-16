@@ -1,27 +1,27 @@
 ## ⚙ **Career**
 
-<table sytle="display: flex; width: 100%; text-align: center">
+<table width=100% sytle="text-align: center">
 <tr>
 
-<td valign="center" width="25%" align="center">
+<td valign="center" width="20%" align="center">
 
 ### **Type**
 
 </td>
 
-<td valign="center" width="25%" align="center">
+<td valign="center" width="20%" align="center">
 
 ### **Date**
 
 </td>
 
-<td valign="center" width="25%" align="center">
+<td valign="center" width="40%" align="center">
 
 ### **Content**
 
 </td>
 
-<td valign="center" width="25%" align="center">
+<td valign="center" width="20%" align="center">
 
 ### **Organization**
 
@@ -31,25 +31,25 @@
 
 <tr>
 
-<td valign="center" width="25%" align="center">
+<td valign="center" width="20%" align="center">
 
 #### Education
 
 </td>
 
-<td valign="center" width="25%" align="center">
+<td valign="center" width="20%" align="center">
 
 #### 2020/03/02 ~
 
 </td>
 
-<td valign="center" width="25%" align="center">
+<td valign="center" width="40%" align="center">
 
 #### Department of software
 
 </td>
 
-<td valign="center" width="25%" align="center">
+<td valign="center" width="20%" align="center">
 
 #### Dankook.univ
 
@@ -61,7 +61,7 @@
 
 ## ⚙ **Tech Stacks**
 
-<table sytle="width: 100%; text-align: center">
+<table width=100% sytle="text-align: center">
 
 <tr>
 
