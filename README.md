@@ -3,7 +3,7 @@
 <table width=100% sytle="text-align: center">
 <tr>
 
-<td valign="center" width="20%" align="center">
+<td valign="center" width="10%" align="center">
 
 ### **Type**
 
@@ -15,7 +15,7 @@
 
 </td>
 
-<td valign="center" width="30%" align="center">
+<td valign="center" width="40%" align="center">
 
 ### **Content**
 
@@ -31,7 +31,7 @@
 
 <tr>
 
-<td valign="center" width="20%" align="center">
+<td valign="center" width="10%" align="center">
 
 #### Education
 
@@ -43,7 +43,7 @@
 
 </td>
 
-<td valign="center" width="30%" align="center">
+<td valign="center" width="40%" align="center">
 
 #### Department of software
 
