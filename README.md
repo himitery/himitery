@@ -9,13 +9,13 @@
 
 </td>
 
-<td valign="center" width="20%" align="center">
+<td valign="center" width="30%" align="center">
 
 ### **Date**
 
 </td>
 
-<td valign="center" width="40%" align="center">
+<td valign="center" width="30%" align="center">
 
 ### **Content**
 
@@ -37,13 +37,13 @@
 
 </td>
 
-<td valign="center" width="20%" align="center">
+<td valign="center" width="30%" align="center">
 
 #### 2020/03/02 ~
 
 </td>
 
-<td valign="center" width="40%" align="center">
+<td valign="center" width="30%" align="center">
 
 #### Department of software
 
