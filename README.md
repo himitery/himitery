@@ -4,13 +4,13 @@
 
 <tr>
 
-<td valign="center" width="10%" align="center">
+<td valign="center" align="center">
 
 ### **Type**
 
 </td>
 
-<td valign="center" width="30%" align="center">
+<td valign="center" align="center">
 
 ### **Date**
 
@@ -22,7 +22,7 @@
 
 </td>
 
-<td valign="center" width="20%" align="center">
+<td valign="center" align="center">
 
 ### **Organization**
 
@@ -32,13 +32,13 @@
 
 <tr>
 
-<td valign="center" width="10%" align="center">
+<td valign="center" align="center">
 
 #### Education
 
 </td>
 
-<td valign="center" width="30%" align="center">
+<td valign="center" align="center">
 
 #### 2020/03/02 ~
 
@@ -50,7 +50,7 @@
 
 </td>
 
-<td valign="center" width="20%" align="center">
+<td valign="center" align="center">
 
 #### Dankook.univ
 
