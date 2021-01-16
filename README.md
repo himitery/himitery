@@ -1,6 +1,6 @@
 ## ⚙ **Career**
 
-<table width="100%" sytle="text-align: center">
+<table sytle="text-align: center">
 <tr>
 
 <td valign="center" width="25%" align="center">
@@ -15,7 +15,7 @@
 
 </td>
 
-<td valign="center" width="100%" align="center">
+<td valign="center" width="25%" align="center">
 
 ### **Content**
 
@@ -43,7 +43,7 @@
 
 </td>
 
-<td valign="center" width="100%" align="center">
+<td valign="center" width="25%" align="center">
 
 #### Department of software
 
