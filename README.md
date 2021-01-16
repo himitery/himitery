@@ -7,6 +7,14 @@
 
 ## ⚙ **Career**
 
+<div align="center" style="width: 100%">
+
+|   Type    |     Date     |        Content         | Organization |
+| :-------: | :----------: | :--------------------: | :----------: |
+| Education | 2020/03/02 ~ | Department of software | Dankook.univ |
+
+</div>
+
 <table width="100%" style="margin-left: auto; margin-right: auto;">
 
 <tr>
