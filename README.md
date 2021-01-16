@@ -7,37 +7,29 @@
 
 ## ⚙ **Career**
 
-<table width="100%">
-
-<style>
-
-td {
-  text-align: center
-}
-
-</style>
+<table width="100%" style="margin-left: auto; margin-right: auto;">
 
 <tr>
 
-<td valign="top" width="20%">
+<td valign="top" width="20%" style="text-align: center">
 
 ### Type
 
 </td>
 
-<td valign="top" width="20%">
+<td valign="top" width="20%" style="text-align: center">
 
 ### Date
 
 </td>
 
-<td valign="top" width="40%">
+<td valign="top" width="40%" style="text-align: center">
 
 ### Content
 
 </td>
 
-<td valign="top" width="20%">
+<td valign="top" width="20%" style="text-align: center">
 
 ### Organization
 
@@ -45,25 +37,25 @@ td {
 
 <tr>
 
-<td valign="top" width="20%">
+<td valign="top" width="20%" style="text-align: center">
 
 #### Education
 
 </td>
 
-<td valign="top" width="20%">
+<td valign="top" width="20%" style="text-align: center">
 
 #### 2020/03 ~
 
 </td>
 
-<td valign="top" width="40%">
+<td valign="top" width="40%" style="text-align: center">
 
 #### Department of software
 
 </td>
 
-<td valign="top" width="20%">
+<td valign="top" width="20%" style="text-align: center">
 
 #### Dankook.univ
 
@@ -79,43 +71,35 @@ td {
 
 </div>
 
-<table width="100%">
-
-<style>
-
-td {
-  text-align: center
-}
-
-</style>
+<table width="100%" style="margin-left: auto; margin-right: auto;">
 
 <tr>
 
-<td valign="top" width="20%">
+<td valign="top" width="20%" style="text-align: center">
 
 ### **Programming Languages**
 
 </td>
 
-<td valign="top" width="20%">
+<td valign="top" width="20%" style="text-align: center">
 
 ### **Fronted Development**
 
 </td>
 
-<td valign="top" width="20%">
+<td valign="top" width="20%" style="text-align: center">
 
 ### **Backend Development**
 
 </td>
 
-<td valign="top" width="20%">
+<td valign="top" width="20%" style="text-align: center">
 
 ### **Database**
 
 </td>
 
-<td valign="top" width="20%">
+<td valign="top" width="20%" style="text-align: center">
 
 ### **Other**
 
@@ -123,7 +107,7 @@ td {
 
 <tr>
 
-<td valign="top" width="20%">
+<td valign="top" width="20%" style="text-align: center">
 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
@@ -134,26 +118,26 @@ td {
 
 </td>
 
-<td valign="top" width="20%">
+<td valign="top" width="20%" style="text-align: center">
 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
 
 </td>
 
-<td valign="top" width="20%">
+<td valign="top" width="20%" style="text-align: center">
 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
 
 </td>
 
-<td valign="top" width="20%">
+<td valign="top" width="20%" style="text-align: center">
 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
 
 </td>
 
-<td valign="top" width="20%">
+<td valign="top" width="20%" style="text-align: center">
 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
