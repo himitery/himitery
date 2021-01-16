@@ -1,6 +1,6 @@
 ## ⚙ **Career**
 
-<table sytle="width: 100%; text-align: center">
+<table sytle="display: flex; width: 100%; text-align: center">
 <tr>
 
 <td valign="center" width="25%" align="center">
@@ -62,6 +62,7 @@
 ## ⚙ **Tech Stacks**
 
 <table sytle="width: 100%; text-align: center">
+
 <tr>
 
 <td valign="center" width="20%" align="center">
