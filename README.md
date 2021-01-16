@@ -15,7 +15,7 @@
 
 </td>
 
-<td valign="center" width="25%" align="center">
+<td valign="center" width="100%" align="center">
 
 ### **Content**
 
@@ -43,7 +43,7 @@
 
 </td>
 
-<td valign="center" width="25%" align="center">
+<td valign="center" width="100%" align="center">
 
 #### Department of software
 
