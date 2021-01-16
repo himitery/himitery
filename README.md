@@ -1,6 +1,6 @@
 ## ⚙ **Career**
 
-<table width=100% sytle="text-align: center">
+<table width=100% sytle="text-align: center margin-right:0">
 <tr>
 
 <td valign="center" width="10%" align="center">
