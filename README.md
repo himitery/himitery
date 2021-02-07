@@ -4,25 +4,25 @@
 
 <tr>
 
-<td valign="center" align="center" width="15%">
+<td valign="center" align="center">
 
 ### **Type**
 
 </td>
 
-<td valign="center" align="center" width="20%">
+<td valign="center" align="center">
 
 ### **Date**
 
 </td>
 
-<td valign="center" align="center" width="50%">
+<td valign="center" align="center">
 
 ### **Content**
 
 </td>
 
-<td valign="center" align="center" width="15%">
+<td valign="center" align="center">
 
 ### **Organization**
 
@@ -32,25 +32,25 @@
 
 <tr>
 
-<td valign="center" align="center" width="15%">
+<td valign="center" align="center">
 
 #### Education
 
 </td>
 
-<td valign="center" align="center" width="20%">
+<td valign="center" align="center">
 
 #### 2020/03 ~
 
 </td>
 
-<td valign="center" align="center" width="50%">
+<td valign="center" align="center">
 
 #### Department of software
 
 </td>
 
-<td valign="center" align="center" width="15%">
+<td valign="center" align="center">
 
 #### Dankook.univ
 
@@ -60,25 +60,25 @@
 
 <tr>
 
-<td valign="center" align="center" width="15%">
+<td valign="center" align="center">
 
 #### Employment
 
 </td>
 
-<td valign="center" align="center" width="20%">
+<td valign="center" align="center">
 
 #### 2021/01 ~
 
 </td>
 
-<td valign="center" align="center" width="50%">
+<td valign="center" align="center">
 
 #### Backend Developer
 
 </td>
 
-<td valign="center" align="center" width="15%">
+<td valign="center" align="center">
 
 #### Danple
 
