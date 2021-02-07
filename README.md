@@ -58,6 +58,34 @@
 
 </tr>
 
+<tr>
+
+<td valign="center" align="center" width="15%">
+
+#### Employment
+
+</td>
+
+<td valign="center" align="center" width="20%">
+
+#### 2021/01 ~
+
+</td>
+
+<td valign="center" align="center" width="50%">
+
+#### Backend Developer
+
+</td>
+
+<td valign="center" align="center" width="15%">
+
+#### Danple
+
+</td>
+
+</tr>
+
 </table>
 
 ## ⚙ **Tech Stacks**
