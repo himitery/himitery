@@ -143,6 +143,7 @@
 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="REACT" height="50" />
 
 </td>
 
@@ -172,8 +173,9 @@
 ## ⚙ **Waka Time**
 
 <div align=center>
-	
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=himitery)](https://wakatime.com/@himitery)
+
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=himitery&layout=compact)](https://wakatime.com/@himitery)
 
 </div>
 
