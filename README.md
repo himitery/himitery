@@ -174,7 +174,6 @@
 
 <div align=center>
 
-
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=himitery&layout=compact)](https://wakatime.com/@himitery)
 
 </div>
@@ -192,6 +191,6 @@
 <div align=center>
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23A3BCE2&title_bg=%234C4C4C&icon=&icon_color=%23E7E7E7&title=%5BTODAY%2FTOTAL%5D&edge_flat=false)](https://hits.seeyoufarm.com)
-<img src = "https://img.shields.io/github/followers/himitery?color=%23a3bce2&label=FOLLOWER&logoColor=%234c4c4c">
+<!-- <img src = "https://img.shields.io/github/followers/himitery?color=%23a3bce2&label=FOLLOWER&logoColor=%234c4c4c"> -->
 
 </div>
