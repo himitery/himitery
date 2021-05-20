@@ -74,7 +74,7 @@
 
 <td valign="center" align="center">
 
-#### Backend Developer
+#### Frontend Developer
 
 </td>
 
@@ -150,6 +150,8 @@
 <td valign="center" width="20%" align="center">
 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
+
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="Nest.js" height="50" />
 
 </td>
 
